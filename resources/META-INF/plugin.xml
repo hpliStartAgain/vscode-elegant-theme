@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>elegant-theme</id>
-    <version>3.0.0</version>
+    <version>3.1.0</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -24,9 +24,9 @@
     <!-- Short summary of new features and bugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes><![CDATA[
-        <p>Elegant Theme is now a collection of 24 themes: 20 new ones (10 dark, 10 light) join the four originals. Dark themes sit on a near-black base with a faint hue tint, light themes on pure white (Linen on a faint cream), every syntax token carries a color, and every token meets WCAG 4.5:1 against the editor. All themes now use the Islands rounded layout, including Elegant Dark, so the plugin requires 2025.3 or newer. The same 24 themes ship as a VS Code extension built from the same palettes.</p>
-        <p>The four original themes keep their colors. New: Midnight, Aurora, Sakura Night, Ocean Deep, Neon Candy, Forest Night, Sunset Ember, Lavender Dusk, Mint Noir, Graphite Pop; Snow, Sakura, Mint, Lavender, Peach, Sky, Lemon, Coral Reef, Candy Pop, Linen.</p>
-        <p>Full release notes: <a href="https://github.com/hpliStartAgain/vscode-elegant-theme/blob/main/_docs/release-3.0.0.en.md">_docs/release-3.0.0.en.md</a></p>
+        <p>New: Elegant Claude Dark and Elegant Claude Light, built on Anthropic's Claude brand palette — clay orange, sky blue and olive green on the brand's slate black and warm ivory. The collection now has 26 themes (13 dark, 13 light), all on the Islands rounded layout, with the same themes in the VS Code extension.</p>
+        <p>Claude Dark sits on the brand's slate black #141413; Claude Light sits on the brand's warm ivory #faf9f5 rather than pure white. Every syntax token keeps its own color and meets WCAG 4.5:1 against the editor.</p>
+        <p>Full release notes: <a href="https://github.com/hpliStartAgain/vscode-elegant-theme/blob/main/_docs/release-3.1.0.en.md">_docs/release-3.1.0.en.md</a></p>
     ]]></change-notes>
 
     <!-- Product and plugin compatibility requirements.
@@ -53,6 +53,8 @@
         <!-- generated-themes:start -->
         <themeProvider id="elegant-aurora-dark" path="/theme/aurora-dark.theme.json"/>
         <colorScheme id="ElegantAuroraDark" path="/theme/aurora-dark.theme.xml" dark="true" />
+        <themeProvider id="elegant-claude-dark" path="/theme/claude-dark.theme.json"/>
+        <colorScheme id="ElegantClaudeDark" path="/theme/claude-dark.theme.xml" dark="true" />
         <themeProvider id="elegant-forest-night-dark" path="/theme/forest-night-dark.theme.json"/>
         <colorScheme id="ElegantForestNightDark" path="/theme/forest-night-dark.theme.xml" dark="true" />
         <themeProvider id="elegant-graphite-pop-dark" path="/theme/graphite-pop-dark.theme.json"/>
@@ -73,6 +75,8 @@
         <colorScheme id="ElegantSunsetEmberDark" path="/theme/sunset-ember-dark.theme.xml" dark="true" />
         <themeProvider id="elegant-candy-pop-light" path="/theme/candy-pop-light.theme.json"/>
         <colorScheme id="ElegantCandyPopLight" path="/theme/candy-pop-light.theme.xml" />
+        <themeProvider id="elegant-claude-light" path="/theme/claude-light.theme.json"/>
+        <colorScheme id="ElegantClaudeLight" path="/theme/claude-light.theme.xml" />
         <themeProvider id="elegant-coral-reef-light" path="/theme/coral-reef-light.theme.json"/>
         <colorScheme id="ElegantCoralReefLight" path="/theme/coral-reef-light.theme.xml" />
         <themeProvider id="elegant-lavender-light" path="/theme/lavender-light.theme.json"/>

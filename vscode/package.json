@@ -2,7 +2,7 @@
   "name": "elegant-theme-collection",
   "displayName": "Elegant Theme Collection",
   "description": "A collection of elegant editor themes, generated from a single palette source shared with the Elegant Theme JetBrains plugin.",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "publisher": "hpliStartAgain",
   "license": "Apache-2.0",
   "engines": {
@@ -28,6 +28,11 @@
         "label": "Elegant Aurora",
         "uiTheme": "vs-dark",
         "path": "./themes/aurora-dark.json"
+      },
+      {
+        "label": "Elegant Claude Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/claude-dark.json"
       },
       {
         "label": "Elegant Dark",
@@ -88,6 +93,11 @@
         "label": "Elegant Candy Pop",
         "uiTheme": "vs",
         "path": "./themes/candy-pop-light.json"
+      },
+      {
+        "label": "Elegant Claude Light",
+        "uiTheme": "vs",
+        "path": "./themes/claude-light.json"
       },
       {
         "label": "Elegant Coral Reef",

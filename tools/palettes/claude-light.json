@@ -1,0 +1,80 @@
+{
+  "id": "claude-light",
+  "name": "Elegant Claude Light",
+  "type": "light",
+  "description": "Anthropic Claude brand colors: deep clay, sky blue and olive with kraft, cactus and fig on the brand's warm ivory base.",
+  "bg": {
+    "editor": "#faf9f5",
+    "panel": "#f0eee6",
+    "main": "#e8e6dc",
+    "surface": "#f5f4ee",
+    "hover": "#ece9df",
+    "selection": "#f2d9cc",
+    "lineHighlight": "#f4f2eb",
+    "border": "#e3dfd3"
+  },
+  "fg": {
+    "text": "#3a2c22",
+    "muted": "#73726c",
+    "comment": "#8c8273",
+    "lineNumber": "#b8b4a8",
+    "onAccent": "#ffffff"
+  },
+  "accent": "#c6613f",
+  "accent2": "#3b6fa0",
+  "syntax": {
+    "keyword": "#b4532f",
+    "control": "#b03a48",
+    "storage": "#6c4fa8",
+    "type": "#8a5a2b",
+    "class": "#7a4a1c",
+    "function": "#2f6aa3",
+    "variable": "#8e3b5e",
+    "parameter": "#9a5a12",
+    "property": "#2f7568",
+    "constant": "#8c3fa0",
+    "number": "#b0560f",
+    "string": "#5a7036",
+    "escape": "#1f7a80",
+    "regex": "#23707a",
+    "operator": "#a2502f",
+    "punctuation": "#6e665a",
+    "tag": "#a8482a",
+    "attribute": "#946010",
+    "decorator": "#9c4f86",
+    "namespace": "#4a5aa8",
+    "label": "#1f7a80",
+    "docTag": "#7d6b80",
+    "macro": "#b4532f"
+  },
+  "status": {
+    "error": "#b03a48",
+    "warning": "#a8650f",
+    "info": "#2f6aa3",
+    "success": "#5a7036",
+    "hint": "#73726c"
+  },
+  "diff": {
+    "added": "#5a7036",
+    "removed": "#b03a48",
+    "modified": "#2f6aa3"
+  },
+  "ansi": {
+    "black": "#3a2c22",
+    "red": "#b03a48",
+    "green": "#5a7036",
+    "yellow": "#a8650f",
+    "blue": "#2f6aa3",
+    "magenta": "#8c3fa0",
+    "cyan": "#1f7a80",
+    "white": "#a8a294",
+    "brightBlack": "#73726c",
+    "brightRed": "#c6613f",
+    "brightGreen": "#788c5d",
+    "brightYellow": "#b4802a",
+    "brightBlue": "#6a9bcc",
+    "brightMagenta": "#9c4f86",
+    "brightCyan": "#2f7568",
+    "brightWhite": "#e8e6dc"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "claude-dark",
+  "name": "Elegant Claude Dark",
+  "type": "dark",
+  "description": "Anthropic Claude brand colors: clay orange, sky blue and olive green with kraft, cactus and fig on the brand's slate-black base.",
+  "bg": {
+    "editor": "#141413",
+    "panel": "#1a1918",
+    "main": "#1f1e1d",
+    "surface": "#262624",
+    "hover": "#2b2a27",
+    "selection": "#4a2e24",
+    "lineHighlight": "#1a1918",
+    "border": "#30302e"
+  },
+  "fg": {
+    "text": "#e5d9c6",
+    "muted": "#b0aea5",
+    "comment": "#87867f",
+    "lineNumber": "#57544d",
+    "onAccent": "#141413"
+  },
+  "accent": "#d97757",
+  "accent2": "#6a9bcc",
+  "syntax": {
+    "keyword": "#e08a6d",
+    "control": "#e5737a",
+    "storage": "#b8a4e3",
+    "type": "#d4a27f",
+    "class": "#ebc48f",
+    "function": "#7fb0dc",
+    "variable": "#e8b4a0",
+    "parameter": "#e6b8c8",
+    "property": "#9cc4b8",
+    "constant": "#e0a458",
+    "number": "#f0b27a",
+    "string": "#9db07a",
+    "escape": "#7cc4c0",
+    "regex": "#6fb8b0",
+    "operator": "#d9a088",
+    "punctuation": "#aea494",
+    "tag": "#d97757",
+    "attribute": "#e3b77f",
+    "decorator": "#d79ac0",
+    "namespace": "#9fb3e6",
+    "label": "#7cc4c0",
+    "docTag": "#a0928a",
+    "macro": "#e08a6d"
+  },
+  "status": {
+    "error": "#e5636b",
+    "warning": "#e0a458",
+    "info": "#6a9bcc",
+    "success": "#9db07a",
+    "hint": "#87867f"
+  },
+  "diff": {
+    "added": "#9db07a",
+    "removed": "#e5636b",
+    "modified": "#6a9bcc"
+  },
+  "ansi": {
+    "black": "#262624",
+    "red": "#e5737a",
+    "green": "#9db07a",
+    "yellow": "#e0a458",
+    "blue": "#6a9bcc",
+    "magenta": "#b8a4e3",
+    "cyan": "#7cc4c0",
+    "white": "#e5d9c6",
+    "brightBlack": "#87867f",
+    "brightRed": "#f09a9e",
+    "brightGreen": "#bccf98",
+    "brightYellow": "#ebc48f",
+    "brightBlue": "#9cc0e3",
+    "brightMagenta": "#d4c6f0",
+    "brightCyan": "#a3dbd6",
+    "brightWhite": "#f5efe3"
+  }
+}

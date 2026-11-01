@@ -1,0 +1,80 @@
+{
+  "id": "firefox-dark",
+  "name": "Elegant Firefox Dark",
+  "type": "dark",
+  "description": "Firefox DevTools colors: magenta keywords, purple types, blue variables, periwinkle strings and green functions on Photon grey-90.",
+  "bg": {
+    "editor": "#0c0c0d",
+    "panel": "#121214",
+    "main": "#18181b",
+    "surface": "#1b1b1d",
+    "hover": "#232327",
+    "selection": "#204e8a",
+    "lineHighlight": "#131316",
+    "border": "#2a2a2e"
+  },
+  "fg": {
+    "text": "#cfd3ec",
+    "muted": "#9a9aa6",
+    "comment": "#8f8ca6",
+    "lineNumber": "#4a4a55",
+    "onAccent": "#0c0c0d"
+  },
+  "accent": "#0a84ff",
+  "accent2": "#b98eff",
+  "syntax": {
+    "keyword": "#ff7de9",
+    "control": "#ff8fb1",
+    "storage": "#f59cff",
+    "type": "#b98eff",
+    "class": "#cfa8ff",
+    "function": "#86de74",
+    "variable": "#75bfff",
+    "parameter": "#a3d4ff",
+    "property": "#4fe0e8",
+    "constant": "#ffffb4",
+    "number": "#ff9f5c",
+    "string": "#6b89ff",
+    "escape": "#ffd36b",
+    "regex": "#ffb4a0",
+    "operator": "#b8c4ff",
+    "punctuation": "#9d9db8",
+    "tag": "#6fc3ff",
+    "attribute": "#ffa3ef",
+    "decorator": "#ffe08a",
+    "namespace": "#9fa8ff",
+    "label": "#4fe0e8",
+    "docTag": "#a597c4",
+    "macro": "#ff9f5c"
+  },
+  "status": {
+    "error": "#ff6b7f",
+    "warning": "#ffd567",
+    "info": "#0a84ff",
+    "success": "#86de74",
+    "hint": "#9a9aa6"
+  },
+  "diff": {
+    "added": "#86de74",
+    "removed": "#ff6b7f",
+    "modified": "#0a84ff"
+  },
+  "ansi": {
+    "black": "#2a2a2e",
+    "red": "#ff6b7f",
+    "green": "#86de74",
+    "yellow": "#ffd567",
+    "blue": "#75bfff",
+    "magenta": "#ff7de9",
+    "cyan": "#4fe0e8",
+    "white": "#cfd3ec",
+    "brightBlack": "#737380",
+    "brightRed": "#ff9494",
+    "brightGreen": "#b0f0a0",
+    "brightYellow": "#ffffb4",
+    "brightBlue": "#a3d4ff",
+    "brightMagenta": "#ffa3ef",
+    "brightCyan": "#8ff0f4",
+    "brightWhite": "#eef0fa"
+  }
+}

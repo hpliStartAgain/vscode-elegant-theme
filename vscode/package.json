@@ -2,7 +2,7 @@
   "name": "elegant-theme-collection",
   "displayName": "Elegant Theme Collection",
   "description": "A collection of elegant editor themes, generated from a single palette source shared with the Elegant Theme JetBrains plugin.",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "publisher": "hpliStartAgain",
   "license": "Apache-2.0",
   "engines": {
@@ -38,6 +38,11 @@
         "label": "Elegant Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/elegant-dark.json"
+      },
+      {
+        "label": "Elegant Firefox Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/firefox-dark.json"
       },
       {
         "label": "Elegant Forest Night",
@@ -103,6 +108,11 @@
         "label": "Elegant Coral Reef",
         "uiTheme": "vs",
         "path": "./themes/coral-reef-light.json"
+      },
+      {
+        "label": "Elegant Firefox Light",
+        "uiTheme": "vs",
+        "path": "./themes/firefox-light.json"
       },
       {
         "label": "Elegant Ink Light",

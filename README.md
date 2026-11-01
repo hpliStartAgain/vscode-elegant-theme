@@ -1,6 +1,6 @@
 # Elegant Theme Collection — JetBrains IDEs & VS Code
 
-26 color themes (13 dark, 13 light) shipped as one JetBrains plugin and one VS Code extension, generated from a single set of palettes. Dark themes sit on a near-black base with a faint hue tint; light themes sit on pure white (three on a faint cream: linen, rice paper, and Claude's warm ivory). Every syntax token carries a color — no white or neutral tokens — and every token meets WCAG 4.5:1 against the editor background.
+28 color themes (14 dark, 14 light) shipped as one JetBrains plugin and one VS Code extension, generated from a single set of palettes. Dark themes sit on a near-black base with a faint hue tint; light themes sit on pure white (three on a faint cream: linen, rice paper, and Claude's warm ivory). Every syntax token carries a color — no white or neutral tokens — and every token meets WCAG 4.5:1 against the editor background.
 
 ![elegant-theme example](https://raw.githubusercontent.com/hpliStartAgain/vscode-elegant-theme/main/examples/code.png)
 
@@ -23,6 +23,7 @@
 | Elegant Mint Noir | teal-black | Mint, teal, lime, soft yellow, soft blue |
 | Elegant Graphite Pop | graphite black | VS Code Dark Modern structure with saturated pop accents |
 | Elegant Claude Dark | `#141413` slate black | Anthropic Claude brand: clay orange, sky blue, olive, kraft, cactus, fig |
+| Elegant Firefox Dark | `#0c0c0d` Photon grey-90 | Firefox DevTools: magenta, purple, blue, periwinkle, green, pale yellow |
 
 ### Light
 
@@ -41,6 +42,7 @@
 | Elegant Candy Pop | pure white | One Light style saturated candy colors |
 | Elegant Linen | linen cream | Terracotta, olive, indigo |
 | Elegant Claude Light | `#faf9f5` warm ivory | Anthropic Claude brand: deep clay, sky blue, olive, kraft, cactus, fig |
+| Elegant Firefox Light | pure white | Firefox DevTools: magenta, purple, Photon blue, navy, green |
 
 ## Install
 

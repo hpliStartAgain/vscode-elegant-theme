@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>elegant-theme</id>
-    <version>3.1.0</version>
+    <version>3.2.0</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -24,9 +24,9 @@
     <!-- Short summary of new features and bugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes><![CDATA[
-        <p>New: Elegant Claude Dark and Elegant Claude Light, built on Anthropic's Claude brand palette — clay orange, sky blue and olive green on the brand's slate black and warm ivory. The collection now has 26 themes (13 dark, 13 light), all on the Islands rounded layout, with the same themes in the VS Code extension.</p>
-        <p>Claude Dark sits on the brand's slate black #141413; Claude Light sits on the brand's warm ivory #faf9f5 rather than pure white. Every syntax token keeps its own color and meets WCAG 4.5:1 against the editor.</p>
-        <p>Full release notes: <a href="https://github.com/hpliStartAgain/vscode-elegant-theme/blob/main/_docs/release-3.1.0.en.md">_docs/release-3.1.0.en.md</a></p>
+        <p>New: Elegant Firefox Dark and Elegant Firefox Light, adapted from the Firefox DevTools colors — magenta keywords, purple types, blue variables, periwinkle and navy strings, green functions and properties. The collection now has 28 themes (14 dark, 14 light), all on the Islands rounded layout, with the same themes in the VS Code extension.</p>
+        <p>Firefox Dark sits on Photon grey-90 #0c0c0d; Firefox Light sits on pure white. Every syntax token keeps its own color and meets WCAG 4.5:1 against the editor.</p>
+        <p>Full release notes: <a href="https://github.com/hpliStartAgain/vscode-elegant-theme/blob/main/_docs/release-3.2.0.en.md">_docs/release-3.2.0.en.md</a></p>
     ]]></change-notes>
 
     <!-- Product and plugin compatibility requirements.
@@ -55,6 +55,8 @@
         <colorScheme id="ElegantAuroraDark" path="/theme/aurora-dark.theme.xml" dark="true" />
         <themeProvider id="elegant-claude-dark" path="/theme/claude-dark.theme.json"/>
         <colorScheme id="ElegantClaudeDark" path="/theme/claude-dark.theme.xml" dark="true" />
+        <themeProvider id="elegant-firefox-dark" path="/theme/firefox-dark.theme.json"/>
+        <colorScheme id="ElegantFirefoxDark" path="/theme/firefox-dark.theme.xml" dark="true" />
         <themeProvider id="elegant-forest-night-dark" path="/theme/forest-night-dark.theme.json"/>
         <colorScheme id="ElegantForestNightDark" path="/theme/forest-night-dark.theme.xml" dark="true" />
         <themeProvider id="elegant-graphite-pop-dark" path="/theme/graphite-pop-dark.theme.json"/>
@@ -79,6 +81,8 @@
         <colorScheme id="ElegantClaudeLight" path="/theme/claude-light.theme.xml" />
         <themeProvider id="elegant-coral-reef-light" path="/theme/coral-reef-light.theme.json"/>
         <colorScheme id="ElegantCoralReefLight" path="/theme/coral-reef-light.theme.xml" />
+        <themeProvider id="elegant-firefox-light" path="/theme/firefox-light.theme.json"/>
+        <colorScheme id="ElegantFirefoxLight" path="/theme/firefox-light.theme.xml" />
         <themeProvider id="elegant-lavender-light" path="/theme/lavender-light.theme.json"/>
         <colorScheme id="ElegantLavenderLight" path="/theme/lavender-light.theme.xml" />
         <themeProvider id="elegant-lemon-light" path="/theme/lemon-light.theme.json"/>

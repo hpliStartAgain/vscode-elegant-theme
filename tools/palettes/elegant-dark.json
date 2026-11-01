@@ -1,0 +1,81 @@
+{
+  "id": "elegant-dark",
+  "name": "Elegant Dark",
+  "type": "dark",
+  "jetbrains": false,
+  "description": "The original Elegant Dark scheme, hand-maintained for JetBrains.",
+  "bg": {
+    "editor": "#1a1c1f",
+    "panel": "#1f2226",
+    "main": "#1f2226",
+    "surface": "#2d3138",
+    "hover": "#30353d",
+    "selection": "#06438f",
+    "lineHighlight": "#24272b",
+    "border": "#30353d"
+  },
+  "fg": {
+    "text": "#a7b4c2",
+    "muted": "#5b697c",
+    "comment": "#5b697c",
+    "lineNumber": "#41484d",
+    "onAccent": "#ffffff"
+  },
+  "accent": "#2075eb",
+  "accent2": "#9581d6",
+  "syntax": {
+    "keyword": "#e0992d",
+    "control": "#e0992d",
+    "storage": "#e0992d",
+    "type": "#12b8a2",
+    "class": "#12b8a2",
+    "function": "#4997fa",
+    "variable": "#8686d1",
+    "parameter": "#13abc0",
+    "property": "#a7b4c2",
+    "constant": "#eb8800",
+    "number": "#eb8800",
+    "string": "#009963",
+    "escape": "#4997fa",
+    "regex": "#009963",
+    "operator": "#a7b4c2",
+    "punctuation": "#5b697c",
+    "tag": "#4997fa",
+    "attribute": "#e0992d",
+    "decorator": "#e0992d",
+    "namespace": "#a7b4c2",
+    "label": "#d674b9",
+    "docTag": "#e0992d",
+    "macro": "#eb8800"
+  },
+  "status": {
+    "error": "#bc3f3c",
+    "warning": "#e0992d",
+    "info": "#4997fa",
+    "success": "#009460",
+    "hint": "#5b697c"
+  },
+  "diff": {
+    "added": "#009460",
+    "removed": "#bc3f3c",
+    "modified": "#2075eb"
+  },
+  "ansi": {
+    "black": "#000000",
+    "red": "#ff6b68",
+    "green": "#a8c023",
+    "yellow": "#d6bf55",
+    "blue": "#5394ec",
+    "magenta": "#ae8abe",
+    "cyan": "#299999",
+    "white": "#a9b7c6",
+    "brightBlack": "#555555",
+    "brightRed": "#ff8785",
+    "brightGreen": "#bcd279",
+    "brightYellow": "#e5d99a",
+    "brightBlue": "#98b9f0",
+    "brightMagenta": "#c7a6d2",
+    "brightCyan": "#55b3b3",
+    "brightWhite": "#ffffff"
+  }
+}

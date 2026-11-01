@@ -1,0 +1,80 @@
+{
+  "id": "ocean-deep-dark",
+  "name": "Elegant Ocean Deep",
+  "type": "dark",
+  "description": "Deep-sea blues, cyan and aqua with coral and sand-gold highlights.",
+  "bg": {
+    "editor": "#0a0f17",
+    "panel": "#0e141d",
+    "main": "#151d28",
+    "surface": "#111924",
+    "hover": "#17212e",
+    "selection": "#143a5c",
+    "lineHighlight": "#0f1620",
+    "border": "#1e2a3a"
+  },
+  "fg": {
+    "text": "#b9cde3",
+    "muted": "#7a90ab",
+    "comment": "#536a85",
+    "lineNumber": "#334558",
+    "onAccent": "#0a0f17"
+  },
+  "accent": "#38bdf8",
+  "accent2": "#ff8e72",
+  "syntax": {
+    "keyword": "#60a5fa",
+    "control": "#ff8e72",
+    "storage": "#22d3ee",
+    "type": "#2dd4bf",
+    "class": "#67e8f9",
+    "function": "#ffd166",
+    "variable": "#9ec5ff",
+    "parameter": "#b7d4ff",
+    "property": "#7dd3fc",
+    "constant": "#ffab91",
+    "number": "#ffb86b",
+    "string": "#6ee7b7",
+    "escape": "#22d3ee",
+    "regex": "#a5f3fc",
+    "operator": "#7cc4ff",
+    "punctuation": "#8aa2bd",
+    "tag": "#ff8e72",
+    "attribute": "#ffd166",
+    "decorator": "#fbbf24",
+    "namespace": "#a5b4fc",
+    "label": "#2dd4bf",
+    "docTag": "#86a0c2",
+    "macro": "#ffab91"
+  },
+  "status": {
+    "error": "#ff6b6b",
+    "warning": "#ffd166",
+    "info": "#38bdf8",
+    "success": "#6ee7b7",
+    "hint": "#7a90ab"
+  },
+  "diff": {
+    "added": "#6ee7b7",
+    "removed": "#ff6b6b",
+    "modified": "#38bdf8"
+  },
+  "ansi": {
+    "black": "#151d28",
+    "red": "#ff6b6b",
+    "green": "#6ee7b7",
+    "yellow": "#ffd166",
+    "blue": "#60a5fa",
+    "magenta": "#a5b4fc",
+    "cyan": "#22d3ee",
+    "white": "#b9cde3",
+    "brightBlack": "#536a85",
+    "brightRed": "#ff9b9b",
+    "brightGreen": "#a7f3d0",
+    "brightYellow": "#ffe29a",
+    "brightBlue": "#93c5fd",
+    "brightMagenta": "#c7d2fe",
+    "brightCyan": "#67e8f9",
+    "brightWhite": "#e2ecf7"
+  }
+}

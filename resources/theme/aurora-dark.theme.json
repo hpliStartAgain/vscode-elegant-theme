@@ -1,0 +1,134 @@
+{
+  "name": "Elegant Aurora",
+  "dark": true,
+  "author": "yx208",
+  "editorScheme": "/theme/aurora-dark.theme.xml",
+  "parentTheme": "Islands Dark",
+  "colors": {
+    "transparent": "#00000000",
+    "editor": "#0b1014",
+    "panel": "#0f1519",
+    "main": "#161d23",
+    "surface": "#121920",
+    "hover": "#18212a",
+    "selection": "#173a3d",
+    "border": "#1f2a31",
+    "text": "#bfd3cf",
+    "muted": "#7f9a98",
+    "comment": "#5a7370",
+    "lineNumber": "#394c4c",
+    "onAccent": "#0b1014",
+    "accent": "#4fd1c5",
+    "accent2": "#b08cff",
+    "error": "#ff6b7a",
+    "warning": "#f7b267",
+    "info": "#5ad4e6",
+    "success": "#8fd98a",
+    "hint": "#7f9a98",
+    "added": "#8fd98a",
+    "removed": "#ff6b7a",
+    "modified": "#5ad4e6",
+    "tabActive": "#1c4040",
+    "scrollThumb": "#7f9a9840",
+    "scrollHoverThumb": "#7f9a9866"
+  },
+  "ui": {
+    "StatusBar.borderColor": "transparent",
+    "MainToolbar.borderColor": "transparent",
+    "Borders.color": "border",
+    "Island": {
+      "borderWidth": 6,
+      "borderWidth.compact": 5,
+      "borderColor": "panel",
+      "arc": 24,
+      "arc.compact": 20
+    },
+    "ToolWindow": {
+      "background": "panel",
+      "Header.background": "panel",
+      "Header.inactiveBackground": "panel"
+    },
+    "MainWindow.background": "main",
+    "EditorTabs": {
+      "background": "editor",
+      "underlinedBorderColor": "accent",
+      "underlinedTabBackground": "tabActive",
+      "inactiveUnderlinedTabBorderColor": "border",
+      "inactiveUnderlinedTabBackground": "hover"
+    },
+    "Tree": {
+      "selectionBackground": "selection",
+      "selectionInactiveBackground": "hover",
+      "leftChildIndent": 10,
+      "rowHeight": 26,
+      "Selection.arc": 12
+    },
+    "List.selectionBackground": "selection",
+    "List.selectionInactiveBackground": "hover",
+    "Menu.selectionBackground": "selection",
+    "PopupMenu.selectionBackground": "selection",
+    "MenuItem.selectionBackground": "selection",
+    "CompletionPopup": {
+      "selectionBackground": "selection",
+      "selectionInactiveBackground": "hover",
+      "background": "surface"
+    },
+    "Button": {
+      "default": {
+        "foreground": "onAccent",
+        "startBackground": "accent",
+        "endBackground": "accent",
+        "startBorderColor": "accent",
+        "endBorderColor": "accent"
+      }
+    },
+    "Component.focusColor": "accent",
+    "Link.activeForeground": "accent",
+    "ProgressBar": {
+      "progressColor": "accent",
+      "indeterminateStartColor": "accent",
+      "indeterminateEndColor": "accent2",
+      "failedColor": "error",
+      "failedEndColor": "error",
+      "passedColor": "success",
+      "passedEndColor": "success"
+    },
+    "ToolTip": {
+      "background": "surface",
+      "borderColor": "border",
+      "paintBorder": true
+    },
+    "ScrollBar": {
+      "thumbColor": "scrollThumb",
+      "thumbBorderColor": "scrollThumb",
+      "hoverThumbColor": "scrollHoverThumb",
+      "hoverThumbBorderColor": "scrollHoverThumb",
+      "trackColor": "editor",
+      "Mac.thumbColor": "scrollThumb",
+      "Mac.thumbBorderColor": "transparent",
+      "Mac.hoverThumbColor": "scrollHoverThumb",
+      "Mac.hoverThumbBorderColor": "transparent",
+      "Mac.Transparent.thumbColor": "scrollThumb",
+      "Mac.Transparent.hoverThumbColor": "scrollHoverThumb"
+    },
+    "Panel.background": "panel",
+    "SidePanel.background": "panel",
+    "Content.background": "panel",
+    "Table.background": "panel",
+    "TextPane.background": "panel",
+    "ComboBox.nonEditableBackground": "panel",
+    "TextField.background": "editor",
+    "TextArea.background": "editor",
+    "NotificationsToolwindow": {
+      "newNotification.background": "surface",
+      "newNotification.hoverBackground": "hover",
+      "Notification.hoverBackground": "hover"
+    },
+    "Notification.background": "surface",
+    "SearchEverywhere.background": "surface",
+    "Popup.background": "surface",
+    "PopupMenu.background": "surface",
+    "Menu.background": "surface",
+    "Label.infoForeground": "muted"
+  }
+}

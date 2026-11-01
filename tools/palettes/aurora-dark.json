@@ -1,0 +1,80 @@
+{
+  "id": "aurora-dark",
+  "name": "Elegant Aurora",
+  "type": "dark",
+  "description": "Northern lights: mint, cyan and violet on a blue-black base.",
+  "bg": {
+    "editor": "#0b1014",
+    "panel": "#0f1519",
+    "main": "#161d23",
+    "surface": "#121920",
+    "hover": "#18212a",
+    "selection": "#173a3d",
+    "lineHighlight": "#10161b",
+    "border": "#1f2a31"
+  },
+  "fg": {
+    "text": "#bfd3cf",
+    "muted": "#7f9a98",
+    "comment": "#5a7370",
+    "lineNumber": "#394c4c",
+    "onAccent": "#0b1014"
+  },
+  "accent": "#4fd1c5",
+  "accent2": "#b08cff",
+  "syntax": {
+    "keyword": "#b08cff",
+    "control": "#ff7eb6",
+    "storage": "#4fd1c5",
+    "type": "#c3e88d",
+    "class": "#d3f0a0",
+    "function": "#5ad4e6",
+    "variable": "#e9d8a6",
+    "parameter": "#f2e2b5",
+    "property": "#7ec8e3",
+    "constant": "#f0a6ca",
+    "number": "#f7b267",
+    "string": "#8fd98a",
+    "escape": "#4fd1c5",
+    "regex": "#7ee8c7",
+    "operator": "#74c7ec",
+    "punctuation": "#8fa7b3",
+    "tag": "#ff7eb6",
+    "attribute": "#e9d8a6",
+    "decorator": "#f7b267",
+    "namespace": "#cba6f7",
+    "label": "#4fd1c5",
+    "docTag": "#86a5c8",
+    "macro": "#f0a6ca"
+  },
+  "status": {
+    "error": "#ff6b7a",
+    "warning": "#f7b267",
+    "info": "#5ad4e6",
+    "success": "#8fd98a",
+    "hint": "#7f9a98"
+  },
+  "diff": {
+    "added": "#8fd98a",
+    "removed": "#ff6b7a",
+    "modified": "#5ad4e6"
+  },
+  "ansi": {
+    "black": "#141c22",
+    "red": "#ff6b7a",
+    "green": "#8fd98a",
+    "yellow": "#f7b267",
+    "blue": "#74c7ec",
+    "magenta": "#b08cff",
+    "cyan": "#4fd1c5",
+    "white": "#bfd3cf",
+    "brightBlack": "#5a7370",
+    "brightRed": "#ff8fa0",
+    "brightGreen": "#b2f0ad",
+    "brightYellow": "#fbc98a",
+    "brightBlue": "#9bd8f5",
+    "brightMagenta": "#cba6f7",
+    "brightCyan": "#7ee8c7",
+    "brightWhite": "#e3f1ee"
+  }
+}

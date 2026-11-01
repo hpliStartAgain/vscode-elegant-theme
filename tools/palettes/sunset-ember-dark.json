@@ -1,0 +1,80 @@
+{
+  "id": "sunset-ember-dark",
+  "name": "Elegant Sunset Ember",
+  "type": "dark",
+  "description": "Orange, peach, coral and gold with violet and sea-mint counterpoints on a warm black base.",
+  "bg": {
+    "editor": "#120e0e",
+    "panel": "#171212",
+    "main": "#201a1a",
+    "surface": "#1a1414",
+    "hover": "#231c1c",
+    "selection": "#4a2a1f",
+    "lineHighlight": "#171111",
+    "border": "#2c2323"
+  },
+  "fg": {
+    "text": "#e0cfc4",
+    "muted": "#a08c80",
+    "comment": "#74625a",
+    "lineNumber": "#4b3f3a",
+    "onAccent": "#120e0e"
+  },
+  "accent": "#ff8a5c",
+  "accent2": "#c084fc",
+  "syntax": {
+    "keyword": "#ff7a59",
+    "control": "#ff5c8a",
+    "storage": "#c084fc",
+    "type": "#ffcc80",
+    "class": "#ffd9a0",
+    "function": "#ffb347",
+    "variable": "#d6a9ff",
+    "parameter": "#e6c8ff",
+    "property": "#ff9f80",
+    "constant": "#ffd166",
+    "number": "#ffbe5c",
+    "string": "#8fd3b6",
+    "escape": "#6fd1c2",
+    "regex": "#7fc8e8",
+    "operator": "#f0b48c",
+    "punctuation": "#a89489",
+    "tag": "#ff5c8a",
+    "attribute": "#ffd166",
+    "decorator": "#ffcc80",
+    "namespace": "#b39cff",
+    "label": "#6fd1c2",
+    "docTag": "#a68fa8",
+    "macro": "#ff7a59"
+  },
+  "status": {
+    "error": "#ff5555",
+    "warning": "#ffb347",
+    "info": "#7fc8e8",
+    "success": "#8fd3b6",
+    "hint": "#a08c80"
+  },
+  "diff": {
+    "added": "#8fd3b6",
+    "removed": "#ff5555",
+    "modified": "#7fc8e8"
+  },
+  "ansi": {
+    "black": "#201a1a",
+    "red": "#ff5c8a",
+    "green": "#8fd3b6",
+    "yellow": "#ffb347",
+    "blue": "#7fc8e8",
+    "magenta": "#c084fc",
+    "cyan": "#6fd1c2",
+    "white": "#e0cfc4",
+    "brightBlack": "#74625a",
+    "brightRed": "#ff8aa8",
+    "brightGreen": "#b5e7d2",
+    "brightYellow": "#ffd166",
+    "brightBlue": "#a9dbf2",
+    "brightMagenta": "#d6a9ff",
+    "brightCyan": "#9fe3d8",
+    "brightWhite": "#f3e9e3"
+  }
+}

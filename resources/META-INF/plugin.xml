@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>elegant-theme</id>
-    <version>2.1.1</version>
+    <version>3.0.0</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -12,7 +12,7 @@
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
     <vendor email="yuanxian208200@gmail.com" url="https://github.com/yx208">yx208</vendor>
 
-    <idea-version since-build="223" />
+    <idea-version since-build="253" />
 
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
@@ -24,9 +24,9 @@
     <!-- Short summary of new features and bugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes><![CDATA[
-        <p>Elegant Ink Light now covers Rust, Python and Go syntax: 55 editor keys were missing and fell back to the platform default colors, which broke the ink-on-paper look. Three UI touches as well: the active editor tab becomes a pale blue chip with a clear blue outline, and turns sand with a light gray outline when the editor loses focus instead of fading out, and the side-bar button of an open tool window uses the theme's selection blue instead of a washed-out gray-blue.</p>
-        <p>Colors only &mdash; every new editor key reuses a hue already in the scheme, and the UI touches add a single new blue and otherwise reuse existing tones. No other theme is affected.</p>
-        <p>Full release notes: <a href="https://github.com/yx208/elegant-theme/blob/main/_docs/release-2.1.1.en.md">_docs/release-2.1.1.en.md</a></p>
+        <p>Elegant Theme is now a collection of 24 themes: 20 new ones (10 dark, 10 light) join the four originals. Dark themes sit on a near-black base with a faint hue tint, light themes on pure white (Linen on a faint cream), every syntax token carries a color, and every token meets WCAG 4.5:1 against the editor. All themes now use the Islands rounded layout, including Elegant Dark, so the plugin requires 2025.3 or newer. The same 24 themes ship as a VS Code extension built from the same palettes.</p>
+        <p>The four original themes keep their colors. New: Midnight, Aurora, Sakura Night, Ocean Deep, Neon Candy, Forest Night, Sunset Ember, Lavender Dusk, Mint Noir, Graphite Pop; Snow, Sakura, Mint, Lavender, Peach, Sky, Lemon, Coral Reef, Candy Pop, Linen.</p>
+        <p>Full release notes: <a href="https://github.com/hpliStartAgain/vscode-elegant-theme/blob/main/_docs/release-3.0.0.en.md">_docs/release-3.0.0.en.md</a></p>
     ]]></change-notes>
 
     <!-- Product and plugin compatibility requirements.
@@ -49,5 +49,48 @@
 
         <themeProvider id="elegant-theme-dark" path="/theme/elegant-dark.theme.json"/>
         <colorScheme id="ElegantThemeDark" path="/theme/elegant-dark.theme.xml" dark="true" />
+
+        <!-- generated-themes:start -->
+        <themeProvider id="elegant-aurora-dark" path="/theme/aurora-dark.theme.json"/>
+        <colorScheme id="ElegantAuroraDark" path="/theme/aurora-dark.theme.xml" dark="true" />
+        <themeProvider id="elegant-forest-night-dark" path="/theme/forest-night-dark.theme.json"/>
+        <colorScheme id="ElegantForestNightDark" path="/theme/forest-night-dark.theme.xml" dark="true" />
+        <themeProvider id="elegant-graphite-pop-dark" path="/theme/graphite-pop-dark.theme.json"/>
+        <colorScheme id="ElegantGraphitePopDark" path="/theme/graphite-pop-dark.theme.xml" dark="true" />
+        <themeProvider id="elegant-lavender-dusk-dark" path="/theme/lavender-dusk-dark.theme.json"/>
+        <colorScheme id="ElegantLavenderDuskDark" path="/theme/lavender-dusk-dark.theme.xml" dark="true" />
+        <themeProvider id="elegant-midnight-dark" path="/theme/midnight-dark.theme.json"/>
+        <colorScheme id="ElegantMidnightDark" path="/theme/midnight-dark.theme.xml" dark="true" />
+        <themeProvider id="elegant-mint-noir-dark" path="/theme/mint-noir-dark.theme.json"/>
+        <colorScheme id="ElegantMintNoirDark" path="/theme/mint-noir-dark.theme.xml" dark="true" />
+        <themeProvider id="elegant-neon-candy-dark" path="/theme/neon-candy-dark.theme.json"/>
+        <colorScheme id="ElegantNeonCandyDark" path="/theme/neon-candy-dark.theme.xml" dark="true" />
+        <themeProvider id="elegant-ocean-deep-dark" path="/theme/ocean-deep-dark.theme.json"/>
+        <colorScheme id="ElegantOceanDeepDark" path="/theme/ocean-deep-dark.theme.xml" dark="true" />
+        <themeProvider id="elegant-sakura-night-dark" path="/theme/sakura-night-dark.theme.json"/>
+        <colorScheme id="ElegantSakuraNightDark" path="/theme/sakura-night-dark.theme.xml" dark="true" />
+        <themeProvider id="elegant-sunset-ember-dark" path="/theme/sunset-ember-dark.theme.json"/>
+        <colorScheme id="ElegantSunsetEmberDark" path="/theme/sunset-ember-dark.theme.xml" dark="true" />
+        <themeProvider id="elegant-candy-pop-light" path="/theme/candy-pop-light.theme.json"/>
+        <colorScheme id="ElegantCandyPopLight" path="/theme/candy-pop-light.theme.xml" />
+        <themeProvider id="elegant-coral-reef-light" path="/theme/coral-reef-light.theme.json"/>
+        <colorScheme id="ElegantCoralReefLight" path="/theme/coral-reef-light.theme.xml" />
+        <themeProvider id="elegant-lavender-light" path="/theme/lavender-light.theme.json"/>
+        <colorScheme id="ElegantLavenderLight" path="/theme/lavender-light.theme.xml" />
+        <themeProvider id="elegant-lemon-light" path="/theme/lemon-light.theme.json"/>
+        <colorScheme id="ElegantLemonLight" path="/theme/lemon-light.theme.xml" />
+        <themeProvider id="elegant-linen-light" path="/theme/linen-light.theme.json"/>
+        <colorScheme id="ElegantLinenLight" path="/theme/linen-light.theme.xml" />
+        <themeProvider id="elegant-mint-light" path="/theme/mint-light.theme.json"/>
+        <colorScheme id="ElegantMintLight" path="/theme/mint-light.theme.xml" />
+        <themeProvider id="elegant-peach-light" path="/theme/peach-light.theme.json"/>
+        <colorScheme id="ElegantPeachLight" path="/theme/peach-light.theme.xml" />
+        <themeProvider id="elegant-sakura-light" path="/theme/sakura-light.theme.json"/>
+        <colorScheme id="ElegantSakuraLight" path="/theme/sakura-light.theme.xml" />
+        <themeProvider id="elegant-sky-light" path="/theme/sky-light.theme.json"/>
+        <colorScheme id="ElegantSkyLight" path="/theme/sky-light.theme.xml" />
+        <themeProvider id="elegant-snow-light" path="/theme/snow-light.theme.json"/>
+        <colorScheme id="ElegantSnowLight" path="/theme/snow-light.theme.xml" />
+        <!-- generated-themes:end -->
     </extensions>
 </idea-plugin>

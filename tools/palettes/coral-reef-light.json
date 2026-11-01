@@ -1,0 +1,80 @@
+{
+  "id": "coral-reef-light",
+  "name": "Elegant Coral Reef",
+  "type": "light",
+  "description": "Coral, turquoise and sand-gold on pure white.",
+  "bg": {
+    "editor": "#ffffff",
+    "panel": "#f3faf9",
+    "main": "#e4f1ef",
+    "surface": "#f7fcfb",
+    "hover": "#e3f4f1",
+    "selection": "#c6ece6",
+    "lineHighlight": "#f1f9f8",
+    "border": "#d2e6e2"
+  },
+  "fg": {
+    "text": "#203835",
+    "muted": "#5e7b77",
+    "comment": "#78928e",
+    "lineNumber": "#a8c0bc",
+    "onAccent": "#ffffff"
+  },
+  "accent": "#ff6f61",
+  "accent2": "#14b8a6",
+  "syntax": {
+    "keyword": "#0f766e",
+    "control": "#c53030",
+    "storage": "#0b6b80",
+    "type": "#0e7c66",
+    "class": "#1d4ed8",
+    "function": "#0369a1",
+    "variable": "#9c4221",
+    "parameter": "#b45309",
+    "property": "#0a6f86",
+    "constant": "#9d174d",
+    "number": "#c2410c",
+    "string": "#2f7d4a",
+    "escape": "#0a5f70",
+    "regex": "#7c2d12",
+    "operator": "#b94a3a",
+    "punctuation": "#5f7572",
+    "tag": "#c53030",
+    "attribute": "#b45309",
+    "decorator": "#7c3aed",
+    "namespace": "#4338ca",
+    "label": "#0a5f70",
+    "docTag": "#587394",
+    "macro": "#9c4221"
+  },
+  "status": {
+    "error": "#c53030",
+    "warning": "#b45309",
+    "info": "#0369a1",
+    "success": "#15803d",
+    "hint": "#5e7b77"
+  },
+  "diff": {
+    "added": "#15803d",
+    "removed": "#c53030",
+    "modified": "#0369a1"
+  },
+  "ansi": {
+    "black": "#203835",
+    "red": "#c53030",
+    "green": "#2f7d4a",
+    "yellow": "#b45309",
+    "blue": "#0369a1",
+    "magenta": "#9d174d",
+    "cyan": "#0f766e",
+    "white": "#8fa8a4",
+    "brightBlack": "#5e7b77",
+    "brightRed": "#9b2c2c",
+    "brightGreen": "#15803d",
+    "brightYellow": "#92400e",
+    "brightBlue": "#1d4ed8",
+    "brightMagenta": "#7c3aed",
+    "brightCyan": "#0b6b80",
+    "brightWhite": "#d0e2df"
+  }
+}

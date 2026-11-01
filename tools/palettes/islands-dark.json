@@ -1,0 +1,81 @@
+{
+  "id": "islands-dark",
+  "name": "Elegant Islands Dark",
+  "type": "dark",
+  "jetbrains": false,
+  "description": "Elegant Islands Dark, hand-maintained for JetBrains.",
+  "bg": {
+    "editor": "#1d1f21",
+    "panel": "#292b2e",
+    "main": "#292b2e",
+    "surface": "#27282b",
+    "hover": "#2b2d30",
+    "selection": "#06448c",
+    "lineHighlight": "#25272b",
+    "border": "#424647"
+  },
+  "fg": {
+    "text": "#a7b4c2",
+    "muted": "#6f737a",
+    "comment": "#6b7680",
+    "lineNumber": "#4b5059",
+    "onAccent": "#ffffff"
+  },
+  "accent": "#006fee",
+  "accent2": "#b189f5",
+  "syntax": {
+    "keyword": "#cf8e6d",
+    "control": "#cf8e6d",
+    "storage": "#cf8e6d",
+    "type": "#00b899",
+    "class": "#00b899",
+    "function": "#56a8f5",
+    "variable": "#bcbec4",
+    "parameter": "#56c1d6",
+    "property": "#c77dbb",
+    "constant": "#c77dbb",
+    "number": "#2aacb8",
+    "string": "#6aab73",
+    "escape": "#cf8e6d",
+    "regex": "#42c3d4",
+    "operator": "#bcbec4",
+    "punctuation": "#6a7280",
+    "tag": "#d5b778",
+    "attribute": "#bcbec4",
+    "decorator": "#b3ae60",
+    "namespace": "#bcbec4",
+    "label": "#32b8af",
+    "docTag": "#b3ae60",
+    "macro": "#bbb529"
+  },
+  "status": {
+    "error": "#fa6675",
+    "warning": "#f2c55c",
+    "info": "#56a8f5",
+    "success": "#6aab73",
+    "hint": "#7ec482"
+  },
+  "diff": {
+    "added": "#73bd79",
+    "removed": "#f75464",
+    "modified": "#70aeff"
+  },
+  "ansi": {
+    "black": "#000000",
+    "red": "#ff6b68",
+    "green": "#a8c023",
+    "yellow": "#d6bf55",
+    "blue": "#5394ec",
+    "magenta": "#ae8abe",
+    "cyan": "#299999",
+    "white": "#bcbec4",
+    "brightBlack": "#555555",
+    "brightRed": "#ff8785",
+    "brightGreen": "#bcd279",
+    "brightYellow": "#e5d99a",
+    "brightBlue": "#98b9f0",
+    "brightMagenta": "#c7a6d2",
+    "brightCyan": "#55b3b3",
+    "brightWhite": "#ffffff"
+  }
+}

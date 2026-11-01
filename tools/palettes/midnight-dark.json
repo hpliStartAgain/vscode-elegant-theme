@@ -1,0 +1,80 @@
+{
+  "id": "midnight-dark",
+  "name": "Elegant Midnight",
+  "type": "dark",
+  "description": "One Dark Pro hues rebuilt on a near-black navy base.",
+  "bg": {
+    "editor": "#0e1116",
+    "panel": "#12161c",
+    "main": "#191e26",
+    "surface": "#161b22",
+    "hover": "#1d232d",
+    "selection": "#1f3a5f",
+    "lineHighlight": "#131820",
+    "border": "#232b37"
+  },
+  "fg": {
+    "text": "#c3cddc",
+    "muted": "#8793a6",
+    "comment": "#5f6b80",
+    "lineNumber": "#3e4859",
+    "onAccent": "#ffffff"
+  },
+  "accent": "#61afef",
+  "accent2": "#c678dd",
+  "syntax": {
+    "keyword": "#c678dd",
+    "control": "#e76ba1",
+    "storage": "#56b6c2",
+    "type": "#e5c07b",
+    "class": "#f0c98a",
+    "function": "#61afef",
+    "variable": "#e06c75",
+    "parameter": "#f2a5ab",
+    "property": "#e8a87c",
+    "constant": "#d19a66",
+    "number": "#f5b36b",
+    "string": "#98c379",
+    "escape": "#56b6c2",
+    "regex": "#7fd1c4",
+    "operator": "#89d2e0",
+    "punctuation": "#9aa8bf",
+    "tag": "#e06c75",
+    "attribute": "#d19a66",
+    "decorator": "#e5c07b",
+    "namespace": "#c9b0ff",
+    "label": "#56b6c2",
+    "docTag": "#8fa6c9",
+    "macro": "#f78c6c"
+  },
+  "status": {
+    "error": "#f14c4c",
+    "warning": "#e5c07b",
+    "info": "#61afef",
+    "success": "#98c379",
+    "hint": "#8793a6"
+  },
+  "diff": {
+    "added": "#98c379",
+    "removed": "#e06c75",
+    "modified": "#61afef"
+  },
+  "ansi": {
+    "black": "#1c2230",
+    "red": "#e06c75",
+    "green": "#98c379",
+    "yellow": "#e5c07b",
+    "blue": "#61afef",
+    "magenta": "#c678dd",
+    "cyan": "#56b6c2",
+    "white": "#c3cddc",
+    "brightBlack": "#5f6b80",
+    "brightRed": "#f28b8b",
+    "brightGreen": "#b5e08a",
+    "brightYellow": "#f2d58a",
+    "brightBlue": "#8cc8ff",
+    "brightMagenta": "#dea0ee",
+    "brightCyan": "#7fd1dc",
+    "brightWhite": "#e6ecf5"
+  }
+}

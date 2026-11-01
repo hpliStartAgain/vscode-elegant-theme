@@ -1,0 +1,80 @@
+{
+  "id": "neon-candy-dark",
+  "name": "Elegant Neon Candy",
+  "type": "dark",
+  "description": "Candy neon: magenta, electric blue, lime and lemon on a neutral near-black base.",
+  "bg": {
+    "editor": "#0d0d12",
+    "panel": "#111118",
+    "main": "#191922",
+    "surface": "#15151d",
+    "hover": "#1c1c26",
+    "selection": "#3a1f5c",
+    "lineHighlight": "#121219",
+    "border": "#262633"
+  },
+  "fg": {
+    "text": "#d2cfe6",
+    "muted": "#8f8aa8",
+    "comment": "#665f80",
+    "lineNumber": "#423d55",
+    "onAccent": "#ffffff"
+  },
+  "accent": "#e040fb",
+  "accent2": "#00e5ff",
+  "syntax": {
+    "keyword": "#ff5fd2",
+    "control": "#ff3d81",
+    "storage": "#00e5ff",
+    "type": "#b5ff5c",
+    "class": "#d4ff7a",
+    "function": "#4dc3ff",
+    "variable": "#ffe66d",
+    "parameter": "#fff2a8",
+    "property": "#ff9f6b",
+    "constant": "#c084fc",
+    "number": "#ffb340",
+    "string": "#5cff9d",
+    "escape": "#00e5ff",
+    "regex": "#7afcff",
+    "operator": "#ff8bd6",
+    "punctuation": "#9d97b8",
+    "tag": "#ff3d81",
+    "attribute": "#ffe66d",
+    "decorator": "#c084fc",
+    "namespace": "#8c9eff",
+    "label": "#00e5ff",
+    "docTag": "#9a90c8",
+    "macro": "#ff9f6b"
+  },
+  "status": {
+    "error": "#ff4d6d",
+    "warning": "#ffb340",
+    "info": "#4dc3ff",
+    "success": "#5cff9d",
+    "hint": "#8f8aa8"
+  },
+  "diff": {
+    "added": "#5cff9d",
+    "removed": "#ff4d6d",
+    "modified": "#4dc3ff"
+  },
+  "ansi": {
+    "black": "#191922",
+    "red": "#ff3d81",
+    "green": "#5cff9d",
+    "yellow": "#ffe66d",
+    "blue": "#4dc3ff",
+    "magenta": "#ff5fd2",
+    "cyan": "#00e5ff",
+    "white": "#d2cfe6",
+    "brightBlack": "#665f80",
+    "brightRed": "#ff6f9f",
+    "brightGreen": "#8fffbe",
+    "brightYellow": "#fff2a8",
+    "brightBlue": "#80d6ff",
+    "brightMagenta": "#ff8fe0",
+    "brightCyan": "#7afcff",
+    "brightWhite": "#ebe9f5"
+  }
+}

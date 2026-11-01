@@ -1,0 +1,149 @@
+{
+  "name": "elegant-theme-collection",
+  "displayName": "Elegant Theme Collection",
+  "description": "A collection of elegant editor themes, generated from a single palette source shared with the Elegant Theme JetBrains plugin.",
+  "version": "3.0.0",
+  "publisher": "hpliStartAgain",
+  "license": "Apache-2.0",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "light",
+    "elegant",
+    "color-theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hpliStartAgain/vscode-elegant-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Elegant Aurora",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aurora-dark.json"
+      },
+      {
+        "label": "Elegant Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/elegant-dark.json"
+      },
+      {
+        "label": "Elegant Forest Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-night-dark.json"
+      },
+      {
+        "label": "Elegant Graphite Pop",
+        "uiTheme": "vs-dark",
+        "path": "./themes/graphite-pop-dark.json"
+      },
+      {
+        "label": "Elegant Islands Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/islands-dark.json"
+      },
+      {
+        "label": "Elegant Lavender Dusk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lavender-dusk-dark.json"
+      },
+      {
+        "label": "Elegant Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-dark.json"
+      },
+      {
+        "label": "Elegant Mint Noir",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mint-noir-dark.json"
+      },
+      {
+        "label": "Elegant Neon Candy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/neon-candy-dark.json"
+      },
+      {
+        "label": "Elegant Ocean Deep",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ocean-deep-dark.json"
+      },
+      {
+        "label": "Elegant Sakura Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sakura-night-dark.json"
+      },
+      {
+        "label": "Elegant Sunset Ember",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sunset-ember-dark.json"
+      },
+      {
+        "label": "Elegant Candy Pop",
+        "uiTheme": "vs",
+        "path": "./themes/candy-pop-light.json"
+      },
+      {
+        "label": "Elegant Coral Reef",
+        "uiTheme": "vs",
+        "path": "./themes/coral-reef-light.json"
+      },
+      {
+        "label": "Elegant Ink Light",
+        "uiTheme": "vs",
+        "path": "./themes/ink-light.json"
+      },
+      {
+        "label": "Elegant Islands Light",
+        "uiTheme": "vs",
+        "path": "./themes/islands-light.json"
+      },
+      {
+        "label": "Elegant Lavender",
+        "uiTheme": "vs",
+        "path": "./themes/lavender-light.json"
+      },
+      {
+        "label": "Elegant Lemon",
+        "uiTheme": "vs",
+        "path": "./themes/lemon-light.json"
+      },
+      {
+        "label": "Elegant Linen",
+        "uiTheme": "vs",
+        "path": "./themes/linen-light.json"
+      },
+      {
+        "label": "Elegant Mint",
+        "uiTheme": "vs",
+        "path": "./themes/mint-light.json"
+      },
+      {
+        "label": "Elegant Peach",
+        "uiTheme": "vs",
+        "path": "./themes/peach-light.json"
+      },
+      {
+        "label": "Elegant Sakura",
+        "uiTheme": "vs",
+        "path": "./themes/sakura-light.json"
+      },
+      {
+        "label": "Elegant Sky",
+        "uiTheme": "vs",
+        "path": "./themes/sky-light.json"
+      },
+      {
+        "label": "Elegant Snow",
+        "uiTheme": "vs",
+        "path": "./themes/snow-light.json"
+      }
+    ]
+  }
+}

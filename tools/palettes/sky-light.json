@@ -1,0 +1,80 @@
+{
+  "id": "sky-light",
+  "name": "Elegant Sky",
+  "type": "light",
+  "description": "Sky blue, azure and cyan with orange highlights on pure white.",
+  "bg": {
+    "editor": "#ffffff",
+    "panel": "#f2f8fd",
+    "main": "#e3eef8",
+    "surface": "#f6fafe",
+    "hover": "#e4f1fb",
+    "selection": "#c7e4fb",
+    "lineHighlight": "#f1f7fc",
+    "border": "#d3e3f0"
+  },
+  "fg": {
+    "text": "#1f3347",
+    "muted": "#5f7893",
+    "comment": "#7891a8",
+    "lineNumber": "#a9bfd3",
+    "onAccent": "#ffffff"
+  },
+  "accent": "#0ea5e9",
+  "accent2": "#f97316",
+  "syntax": {
+    "keyword": "#075985",
+    "control": "#c2410c",
+    "storage": "#0b6b80",
+    "type": "#0f766e",
+    "class": "#1d4ed8",
+    "function": "#0969da",
+    "variable": "#92400e",
+    "parameter": "#a16207",
+    "property": "#0a6f86",
+    "constant": "#7c3aed",
+    "number": "#b45309",
+    "string": "#15803d",
+    "escape": "#0a5f70",
+    "regex": "#6d28d9",
+    "operator": "#2f6f9f",
+    "punctuation": "#5a6f84",
+    "tag": "#c2410c",
+    "attribute": "#b45309",
+    "decorator": "#7c3aed",
+    "namespace": "#4338ca",
+    "label": "#0a5f70",
+    "docTag": "#557399",
+    "macro": "#92400e"
+  },
+  "status": {
+    "error": "#dc2626",
+    "warning": "#b45309",
+    "info": "#0969da",
+    "success": "#15803d",
+    "hint": "#5f7893"
+  },
+  "diff": {
+    "added": "#15803d",
+    "removed": "#dc2626",
+    "modified": "#0969da"
+  },
+  "ansi": {
+    "black": "#1f3347",
+    "red": "#dc2626",
+    "green": "#15803d",
+    "yellow": "#b45309",
+    "blue": "#0369a1",
+    "magenta": "#7c3aed",
+    "cyan": "#0b6b80",
+    "white": "#8ea4b8",
+    "brightBlack": "#5f7893",
+    "brightRed": "#b91c1c",
+    "brightGreen": "#166534",
+    "brightYellow": "#92400e",
+    "brightBlue": "#1d4ed8",
+    "brightMagenta": "#6d28d9",
+    "brightCyan": "#0a5f70",
+    "brightWhite": "#d2e0ec"
+  }
+}

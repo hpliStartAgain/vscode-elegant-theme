@@ -1,0 +1,80 @@
+{
+  "id": "linen-light",
+  "name": "Elegant Linen",
+  "type": "light",
+  "description": "Terracotta, olive and indigo on a faint linen-cream base.",
+  "bg": {
+    "editor": "#fcf8f0",
+    "panel": "#f5efe3",
+    "main": "#ebe3d3",
+    "surface": "#f8f3e9",
+    "hover": "#f1e9db",
+    "selection": "#ead9c0",
+    "lineHighlight": "#f7f1e5",
+    "border": "#e3d9c6"
+  },
+  "fg": {
+    "text": "#3b3127",
+    "muted": "#7d6f60",
+    "comment": "#93857a",
+    "lineNumber": "#bfb3a3",
+    "onAccent": "#ffffff"
+  },
+  "accent": "#c2410c",
+  "accent2": "#3730a3",
+  "syntax": {
+    "keyword": "#9a3412",
+    "control": "#b91c1c",
+    "storage": "#3730a3",
+    "type": "#4d6b1f",
+    "class": "#3f6212",
+    "function": "#1e40af",
+    "variable": "#7c2d12",
+    "parameter": "#92400e",
+    "property": "#0f766e",
+    "constant": "#6d28d9",
+    "number": "#b45309",
+    "string": "#166534",
+    "escape": "#0b6b80",
+    "regex": "#0a5f70",
+    "operator": "#a3471b",
+    "punctuation": "#6f6456",
+    "tag": "#a21caf",
+    "attribute": "#92400e",
+    "decorator": "#7c3aed",
+    "namespace": "#4338ca",
+    "label": "#0b6b80",
+    "docTag": "#716085",
+    "macro": "#9a3412"
+  },
+  "status": {
+    "error": "#b91c1c",
+    "warning": "#b45309",
+    "info": "#1e40af",
+    "success": "#166534",
+    "hint": "#7d6f60"
+  },
+  "diff": {
+    "added": "#166534",
+    "removed": "#b91c1c",
+    "modified": "#1e40af"
+  },
+  "ansi": {
+    "black": "#3b3127",
+    "red": "#b91c1c",
+    "green": "#3f6212",
+    "yellow": "#b45309",
+    "blue": "#1e40af",
+    "magenta": "#a21caf",
+    "cyan": "#0f766e",
+    "white": "#a0937f",
+    "brightBlack": "#7d6f60",
+    "brightRed": "#9a3412",
+    "brightGreen": "#4d6b1f",
+    "brightYellow": "#92400e",
+    "brightBlue": "#4338ca",
+    "brightMagenta": "#7c3aed",
+    "brightCyan": "#0b6b80",
+    "brightWhite": "#ded3c2"
+  }
+}

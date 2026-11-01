@@ -1,0 +1,80 @@
+{
+  "id": "lemon-light",
+  "name": "Elegant Lemon",
+  "type": "light",
+  "description": "Lemon, yellow-green and olive with blue and teal counterpoints on pure white.",
+  "bg": {
+    "editor": "#ffffff",
+    "panel": "#fbfaef",
+    "main": "#f1efdc",
+    "surface": "#fdfcf4",
+    "hover": "#f6f4dc",
+    "selection": "#f3edb0",
+    "lineHighlight": "#fbfaee",
+    "border": "#e8e4c8"
+  },
+  "fg": {
+    "text": "#343a1f",
+    "muted": "#747a52",
+    "comment": "#8c926a",
+    "lineNumber": "#b9bd99",
+    "onAccent": "#ffffff"
+  },
+  "accent": "#a68b00",
+  "accent2": "#1d4ed8",
+  "syntax": {
+    "keyword": "#7a6400",
+    "control": "#a35200",
+    "storage": "#3f6212",
+    "type": "#4d7c0f",
+    "class": "#166534",
+    "function": "#1d4ed8",
+    "variable": "#854d0e",
+    "parameter": "#92400e",
+    "property": "#0b6b80",
+    "constant": "#6d28d9",
+    "number": "#b45309",
+    "string": "#0f766e",
+    "escape": "#0a5f70",
+    "regex": "#7c2d12",
+    "operator": "#65700e",
+    "punctuation": "#6e7250",
+    "tag": "#a35200",
+    "attribute": "#854d0e",
+    "decorator": "#7c3aed",
+    "namespace": "#4338ca",
+    "label": "#0a5f70",
+    "docTag": "#6f7445",
+    "macro": "#a35200"
+  },
+  "status": {
+    "error": "#dc2626",
+    "warning": "#a35200",
+    "info": "#1d4ed8",
+    "success": "#4d7c0f",
+    "hint": "#747a52"
+  },
+  "diff": {
+    "added": "#4d7c0f",
+    "removed": "#dc2626",
+    "modified": "#1d4ed8"
+  },
+  "ansi": {
+    "black": "#343a1f",
+    "red": "#dc2626",
+    "green": "#4d7c0f",
+    "yellow": "#7a6400",
+    "blue": "#1d4ed8",
+    "magenta": "#7c3aed",
+    "cyan": "#0b6b80",
+    "white": "#9ea37a",
+    "brightBlack": "#747a52",
+    "brightRed": "#b91c1c",
+    "brightGreen": "#3f6212",
+    "brightYellow": "#a35200",
+    "brightBlue": "#1e40af",
+    "brightMagenta": "#6d28d9",
+    "brightCyan": "#0a5f70",
+    "brightWhite": "#dddfc4"
+  }
+}

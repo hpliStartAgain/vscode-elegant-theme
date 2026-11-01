@@ -1,0 +1,80 @@
+{
+  "id": "lavender-dusk-dark",
+  "name": "Elegant Lavender Dusk",
+  "type": "dark",
+  "description": "Lavender, periwinkle, pink and mint on a violet-gray near-black base.",
+  "bg": {
+    "editor": "#0f0e15",
+    "panel": "#13121a",
+    "main": "#1b1a23",
+    "surface": "#16151e",
+    "hover": "#1d1c27",
+    "selection": "#352c5e",
+    "lineHighlight": "#14131b",
+    "border": "#272538"
+  },
+  "fg": {
+    "text": "#d0cce6",
+    "muted": "#8e8aa8",
+    "comment": "#65617e",
+    "lineNumber": "#433f58",
+    "onAccent": "#0f0e15"
+  },
+  "accent": "#a78bfa",
+  "accent2": "#f0abfc",
+  "syntax": {
+    "keyword": "#a78bfa",
+    "control": "#f0abfc",
+    "storage": "#8fb8ff",
+    "type": "#c4b5fd",
+    "class": "#d6c8ff",
+    "function": "#7dd3fc",
+    "variable": "#f9a8d4",
+    "parameter": "#fbcfe8",
+    "property": "#a5f3fc",
+    "constant": "#fdba74",
+    "number": "#fcd34d",
+    "string": "#9ae6b4",
+    "escape": "#5eead4",
+    "regex": "#99f6e4",
+    "operator": "#b4a7f0",
+    "punctuation": "#9690b4",
+    "tag": "#f0abfc",
+    "attribute": "#fdba74",
+    "decorator": "#f9a8d4",
+    "namespace": "#93c5fd",
+    "label": "#5eead4",
+    "docTag": "#9ca0cc",
+    "macro": "#fb7185"
+  },
+  "status": {
+    "error": "#fb7185",
+    "warning": "#fcd34d",
+    "info": "#7dd3fc",
+    "success": "#9ae6b4",
+    "hint": "#8e8aa8"
+  },
+  "diff": {
+    "added": "#9ae6b4",
+    "removed": "#fb7185",
+    "modified": "#7dd3fc"
+  },
+  "ansi": {
+    "black": "#1b1a23",
+    "red": "#fb7185",
+    "green": "#9ae6b4",
+    "yellow": "#fcd34d",
+    "blue": "#8fb8ff",
+    "magenta": "#a78bfa",
+    "cyan": "#5eead4",
+    "white": "#d0cce6",
+    "brightBlack": "#65617e",
+    "brightRed": "#fda4af",
+    "brightGreen": "#bbf7d0",
+    "brightYellow": "#fde68a",
+    "brightBlue": "#bfdbfe",
+    "brightMagenta": "#c4b5fd",
+    "brightCyan": "#99f6e4",
+    "brightWhite": "#ece9f8"
+  }
+}

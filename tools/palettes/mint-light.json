@@ -1,0 +1,80 @@
+{
+  "id": "mint-light",
+  "name": "Elegant Mint",
+  "type": "light",
+  "description": "Mint, teal and green with amber and blue counterpoints on pure white.",
+  "bg": {
+    "editor": "#ffffff",
+    "panel": "#f3f9f6",
+    "main": "#e6f1ec",
+    "surface": "#f7fbf9",
+    "hover": "#e6f3ee",
+    "selection": "#c9efe0",
+    "lineHighlight": "#f2f9f6",
+    "border": "#d6e6df"
+  },
+  "fg": {
+    "text": "#233a33",
+    "muted": "#5f7c72",
+    "comment": "#7a9388",
+    "lineNumber": "#a6bdb3",
+    "onAccent": "#ffffff"
+  },
+  "accent": "#0f9f7a",
+  "accent2": "#c27c0e",
+  "syntax": {
+    "keyword": "#0f766e",
+    "control": "#b45309",
+    "storage": "#1d4ed8",
+    "type": "#0b7a4b",
+    "class": "#0e6b5c",
+    "function": "#0369a1",
+    "variable": "#4d6b1f",
+    "parameter": "#6b7a1c",
+    "property": "#0f6e8c",
+    "constant": "#9a3412",
+    "number": "#c2410c",
+    "string": "#15803d",
+    "escape": "#0e7490",
+    "regex": "#0a5f5a",
+    "operator": "#2a7a62",
+    "punctuation": "#5c7068",
+    "tag": "#0b7a4b",
+    "attribute": "#9a3412",
+    "decorator": "#b45309",
+    "namespace": "#4338ca",
+    "label": "#0e7490",
+    "docTag": "#567299",
+    "macro": "#9a3412"
+  },
+  "status": {
+    "error": "#d1242f",
+    "warning": "#b45309",
+    "info": "#0369a1",
+    "success": "#15803d",
+    "hint": "#5f7c72"
+  },
+  "diff": {
+    "added": "#15803d",
+    "removed": "#d1242f",
+    "modified": "#0369a1"
+  },
+  "ansi": {
+    "black": "#233a33",
+    "red": "#d1242f",
+    "green": "#15803d",
+    "yellow": "#b45309",
+    "blue": "#0369a1",
+    "magenta": "#7c3aed",
+    "cyan": "#0e7490",
+    "white": "#8aa39a",
+    "brightBlack": "#5f7c72",
+    "brightRed": "#a40e26",
+    "brightGreen": "#0b7a4b",
+    "brightYellow": "#92400e",
+    "brightBlue": "#1d4ed8",
+    "brightMagenta": "#6d28d9",
+    "brightCyan": "#0f766e",
+    "brightWhite": "#c7d9d1"
+  }
+}

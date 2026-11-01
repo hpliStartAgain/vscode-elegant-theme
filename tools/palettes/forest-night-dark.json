@@ -1,0 +1,80 @@
+{
+  "id": "forest-night-dark",
+  "name": "Elegant Forest Night",
+  "type": "dark",
+  "description": "Moss, amber, sand and sage on a deep green-black base.",
+  "bg": {
+    "editor": "#0d110e",
+    "panel": "#111612",
+    "main": "#192019",
+    "surface": "#141a15",
+    "hover": "#1a221b",
+    "selection": "#27422a",
+    "lineHighlight": "#121813",
+    "border": "#233026"
+  },
+  "fg": {
+    "text": "#c6d5be",
+    "muted": "#879a84",
+    "comment": "#5f725f",
+    "lineNumber": "#3d4c3d",
+    "onAccent": "#0d110e"
+  },
+  "accent": "#7bc47f",
+  "accent2": "#e0a458",
+  "syntax": {
+    "keyword": "#e0a458",
+    "control": "#e8875a",
+    "storage": "#8fbc8f",
+    "type": "#d8c38d",
+    "class": "#e6d3a3",
+    "function": "#7bc47f",
+    "variable": "#b8c77c",
+    "parameter": "#d2dca0",
+    "property": "#9fd6c2",
+    "constant": "#f0c987",
+    "number": "#f2b96b",
+    "string": "#a8d08d",
+    "escape": "#74c69d",
+    "regex": "#8ecfb0",
+    "operator": "#c9a97a",
+    "punctuation": "#94a58e",
+    "tag": "#e8875a",
+    "attribute": "#f0c987",
+    "decorator": "#d8c38d",
+    "namespace": "#a9c4ee",
+    "label": "#74c69d",
+    "docTag": "#8da3a0",
+    "macro": "#e0a458"
+  },
+  "status": {
+    "error": "#e5736b",
+    "warning": "#e0a458",
+    "info": "#8fbfe0",
+    "success": "#7bc47f",
+    "hint": "#879a84"
+  },
+  "diff": {
+    "added": "#7bc47f",
+    "removed": "#e5736b",
+    "modified": "#8fbfe0"
+  },
+  "ansi": {
+    "black": "#192019",
+    "red": "#e5736b",
+    "green": "#a8d08d",
+    "yellow": "#e0a458",
+    "blue": "#8fbfe0",
+    "magenta": "#c7a4d9",
+    "cyan": "#74c69d",
+    "white": "#c6d5be",
+    "brightBlack": "#5f725f",
+    "brightRed": "#f09a93",
+    "brightGreen": "#c3e0ab",
+    "brightYellow": "#f0c987",
+    "brightBlue": "#a9c4ee",
+    "brightMagenta": "#d9bde6",
+    "brightCyan": "#9fd6c2",
+    "brightWhite": "#e5ede0"
+  }
+}

@@ -32,7 +32,7 @@ public final class UpdateNotificationActivity implements StartupActivity.DumbAwa
 
     private static final String LAST_NOTIFIED_VERSION_KEY = "elegant.theme.last.notified.version";
     private static final String RELEASE_NOTES_URL_TEMPLATE =
-            "https://github.com/yx208/elegant-theme/blob/main/_docs/release-%s.en.md";
+            "https://github.com/hpliStartAgain/vscode-elegant-theme/blob/main/_docs/release-%s.en.md";
     private static final Pattern FIRST_PARAGRAPH =
             Pattern.compile("<p>(.*?)</p>", Pattern.DOTALL | Pattern.CASE_INSENSITIVE);
 

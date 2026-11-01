@@ -1,0 +1,80 @@
+{
+  "id": "sakura-light",
+  "name": "Elegant Sakura",
+  "type": "light",
+  "description": "Rose, pink and plum with mint accents on pure white.",
+  "bg": {
+    "editor": "#ffffff",
+    "panel": "#fbf5f8",
+    "main": "#f3e9ee",
+    "surface": "#fdf8fa",
+    "hover": "#f7e8ef",
+    "selection": "#fbd5e3",
+    "lineHighlight": "#fdf4f8",
+    "border": "#ecd9e2"
+  },
+  "fg": {
+    "text": "#3d2836",
+    "muted": "#7d6a76",
+    "comment": "#8e7a88",
+    "lineNumber": "#b7a3b0",
+    "onAccent": "#ffffff"
+  },
+  "accent": "#d6336c",
+  "accent2": "#7c4dbd",
+  "syntax": {
+    "keyword": "#c2185b",
+    "control": "#ad1457",
+    "storage": "#7c4dbd",
+    "type": "#0f7c6e",
+    "class": "#8a2f8f",
+    "function": "#1565c0",
+    "variable": "#a3433f",
+    "parameter": "#b65a4a",
+    "property": "#2b7a91",
+    "constant": "#9c27b0",
+    "number": "#c2410c",
+    "string": "#2e7d32",
+    "escape": "#0f7c6e",
+    "regex": "#0e6b5c",
+    "operator": "#b03a82",
+    "punctuation": "#70596b",
+    "tag": "#c2185b",
+    "attribute": "#9c27b0",
+    "decorator": "#7c4dbd",
+    "namespace": "#5b4aa8",
+    "label": "#0f7c6e",
+    "docTag": "#6b5a9e",
+    "macro": "#a3433f"
+  },
+  "status": {
+    "error": "#d32f2f",
+    "warning": "#b26a00",
+    "info": "#1565c0",
+    "success": "#2e7d32",
+    "hint": "#7d6a76"
+  },
+  "diff": {
+    "added": "#2e7d32",
+    "removed": "#d32f2f",
+    "modified": "#1565c0"
+  },
+  "ansi": {
+    "black": "#3d2836",
+    "red": "#d32f2f",
+    "green": "#2e7d32",
+    "yellow": "#b26a00",
+    "blue": "#1565c0",
+    "magenta": "#9c27b0",
+    "cyan": "#0f7c6e",
+    "white": "#a090a0",
+    "brightBlack": "#7d6a76",
+    "brightRed": "#c2185b",
+    "brightGreen": "#1b5e20",
+    "brightYellow": "#8d5400",
+    "brightBlue": "#0d47a1",
+    "brightMagenta": "#7c4dbd",
+    "brightCyan": "#0e6b5c",
+    "brightWhite": "#d9c9d3"
+  }
+}

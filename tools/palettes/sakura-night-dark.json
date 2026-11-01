@@ -1,0 +1,80 @@
+{
+  "id": "sakura-night-dark",
+  "name": "Elegant Sakura Night",
+  "type": "dark",
+  "description": "Cherry blossom pinks, lilac and mint accents on a plum-black base.",
+  "bg": {
+    "editor": "#120f13",
+    "panel": "#171318",
+    "main": "#1f1a21",
+    "surface": "#1a151c",
+    "hover": "#221b25",
+    "selection": "#44213a",
+    "lineHighlight": "#17131a",
+    "border": "#2a222d"
+  },
+  "fg": {
+    "text": "#dcc6d6",
+    "muted": "#9a8699",
+    "comment": "#6f6070",
+    "lineNumber": "#4a3f4d",
+    "onAccent": "#120f13"
+  },
+  "accent": "#f48fb1",
+  "accent2": "#b39ddb",
+  "syntax": {
+    "keyword": "#d98cd3",
+    "control": "#ff8fab",
+    "storage": "#b39ddb",
+    "type": "#ffb7c5",
+    "class": "#ffc7d1",
+    "function": "#8ecae6",
+    "variable": "#c7a5e8",
+    "parameter": "#d9c2f0",
+    "property": "#f2b5a0",
+    "constant": "#ffd6a5",
+    "number": "#ffc98a",
+    "string": "#a8e6cf",
+    "escape": "#7fd7c4",
+    "regex": "#9adcf0",
+    "operator": "#d4a5d9",
+    "punctuation": "#a594a8",
+    "tag": "#ff8fab",
+    "attribute": "#ffd6a5",
+    "decorator": "#f6c177",
+    "namespace": "#c4a7e7",
+    "label": "#7fd7c4",
+    "docTag": "#9ba7c9",
+    "macro": "#f2b5a0"
+  },
+  "status": {
+    "error": "#ff6b8a",
+    "warning": "#f6c177",
+    "info": "#8ecae6",
+    "success": "#a8e6cf",
+    "hint": "#9a8699"
+  },
+  "diff": {
+    "added": "#a8e6cf",
+    "removed": "#ff6b8a",
+    "modified": "#8ecae6"
+  },
+  "ansi": {
+    "black": "#1f1a21",
+    "red": "#ff8fab",
+    "green": "#a8e6cf",
+    "yellow": "#f6c177",
+    "blue": "#8ecae6",
+    "magenta": "#d98cd3",
+    "cyan": "#7fd7c4",
+    "white": "#dcc6d6",
+    "brightBlack": "#6f6070",
+    "brightRed": "#ffb3c6",
+    "brightGreen": "#c4f1dd",
+    "brightYellow": "#ffd9a0",
+    "brightBlue": "#b0dcf2",
+    "brightMagenta": "#ebb0e6",
+    "brightCyan": "#a3e8da",
+    "brightWhite": "#f3e6f0"
+  }
+}

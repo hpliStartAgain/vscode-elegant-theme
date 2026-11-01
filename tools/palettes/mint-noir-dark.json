@@ -1,0 +1,80 @@
+{
+  "id": "mint-noir-dark",
+  "name": "Elegant Mint Noir",
+  "type": "dark",
+  "description": "Mint, teal, lime and soft yellow with a soft-blue string tone on a teal-black base.",
+  "bg": {
+    "editor": "#0b1210",
+    "panel": "#0f1614",
+    "main": "#171f1c",
+    "surface": "#121a17",
+    "hover": "#18221e",
+    "selection": "#1b3f36",
+    "lineHighlight": "#101714",
+    "border": "#1f2d28"
+  },
+  "fg": {
+    "text": "#c2dad0",
+    "muted": "#7f9e92",
+    "comment": "#587369",
+    "lineNumber": "#374a43",
+    "onAccent": "#0b1210"
+  },
+  "accent": "#34d399",
+  "accent2": "#a3e635",
+  "syntax": {
+    "keyword": "#34d399",
+    "control": "#f472b6",
+    "storage": "#5eead4",
+    "type": "#a3e635",
+    "class": "#bef264",
+    "function": "#67e8f9",
+    "variable": "#fde68a",
+    "parameter": "#fde9a8",
+    "property": "#86efac",
+    "constant": "#fbbf24",
+    "number": "#fb923c",
+    "string": "#7dd3fc",
+    "escape": "#5eead4",
+    "regex": "#99f6e4",
+    "operator": "#6ee7b7",
+    "punctuation": "#8fa89f",
+    "tag": "#f472b6",
+    "attribute": "#fde68a",
+    "decorator": "#a3e635",
+    "namespace": "#93c5fd",
+    "label": "#5eead4",
+    "docTag": "#8cab9f",
+    "macro": "#fb923c"
+  },
+  "status": {
+    "error": "#f87171",
+    "warning": "#fbbf24",
+    "info": "#7dd3fc",
+    "success": "#34d399",
+    "hint": "#7f9e92"
+  },
+  "diff": {
+    "added": "#34d399",
+    "removed": "#f87171",
+    "modified": "#7dd3fc"
+  },
+  "ansi": {
+    "black": "#171f1c",
+    "red": "#f87171",
+    "green": "#34d399",
+    "yellow": "#fde68a",
+    "blue": "#7dd3fc",
+    "magenta": "#f472b6",
+    "cyan": "#5eead4",
+    "white": "#c2dad0",
+    "brightBlack": "#587369",
+    "brightRed": "#fca5a5",
+    "brightGreen": "#6ee7b7",
+    "brightYellow": "#fef08a",
+    "brightBlue": "#bae6fd",
+    "brightMagenta": "#f9a8d4",
+    "brightCyan": "#99f6e4",
+    "brightWhite": "#e4f1eb"
+  }
+}

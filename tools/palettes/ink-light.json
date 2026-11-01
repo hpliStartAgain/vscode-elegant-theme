@@ -1,0 +1,81 @@
+{
+  "id": "ink-light",
+  "name": "Elegant Ink Light",
+  "type": "light",
+  "jetbrains": false,
+  "description": "Elegant Ink Light, hand-maintained for JetBrains.",
+  "bg": {
+    "editor": "#f6f0df",
+    "panel": "#f2ecda",
+    "main": "#e6ddc5",
+    "surface": "#f9f4e6",
+    "hover": "#eae4d2",
+    "selection": "#c8d5e3",
+    "lineHighlight": "#eae2cc",
+    "border": "#cfc6ac"
+  },
+  "fg": {
+    "text": "#3b3a36",
+    "muted": "#6b675e",
+    "comment": "#8f8873",
+    "lineNumber": "#a79f89",
+    "onAccent": "#f6f0df"
+  },
+  "accent": "#3d6a78",
+  "accent2": "#8e4d82",
+  "syntax": {
+    "keyword": "#33568c",
+    "control": "#33568c",
+    "storage": "#33568c",
+    "type": "#2e7d6e",
+    "class": "#2e7d6e",
+    "function": "#2e7093",
+    "variable": "#3b3a36",
+    "parameter": "#6b675e",
+    "property": "#8e4d82",
+    "constant": "#8e4d82",
+    "number": "#a85f2e",
+    "string": "#4a7a3d",
+    "escape": "#3e6b33",
+    "regex": "#2e7d6e",
+    "operator": "#3b3a36",
+    "punctuation": "#3b3a36",
+    "tag": "#2e7d6e",
+    "attribute": "#6b675e",
+    "decorator": "#96781c",
+    "namespace": "#96781c",
+    "label": "#8f8873",
+    "docTag": "#96781c",
+    "macro": "#96781c"
+  },
+  "status": {
+    "error": "#c13e2f",
+    "warning": "#886715",
+    "info": "#2e7093",
+    "success": "#557441",
+    "hint": "#a79f89"
+  },
+  "diff": {
+    "added": "#698851",
+    "removed": "#bc6050",
+    "modified": "#44546b"
+  },
+  "ansi": {
+    "black": "#3b3a36",
+    "red": "#b3554a",
+    "green": "#557441",
+    "yellow": "#886715",
+    "blue": "#33568c",
+    "magenta": "#8e4d82",
+    "cyan": "#2e7d6e",
+    "white": "#a79f89",
+    "brightBlack": "#6b675e",
+    "brightRed": "#c13e2f",
+    "brightGreen": "#4a7a3d",
+    "brightYellow": "#96781c",
+    "brightBlue": "#4268a6",
+    "brightMagenta": "#a34e9b",
+    "brightCyan": "#2b8170",
+    "brightWhite": "#3b3a36"
+  }
+}

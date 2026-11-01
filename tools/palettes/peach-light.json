@@ -1,0 +1,80 @@
+{
+  "id": "peach-light",
+  "name": "Elegant Peach",
+  "type": "light",
+  "description": "Peach, coral and orange with teal and indigo counterpoints on pure white.",
+  "bg": {
+    "editor": "#ffffff",
+    "panel": "#fcf6f2",
+    "main": "#f5e9e1",
+    "surface": "#fdf9f6",
+    "hover": "#fae9df",
+    "selection": "#fdd9c7",
+    "lineHighlight": "#fdf5f0",
+    "border": "#efdccf"
+  },
+  "fg": {
+    "text": "#3d2e26",
+    "muted": "#80695c",
+    "comment": "#967f71",
+    "lineNumber": "#c0aa9c",
+    "onAccent": "#ffffff"
+  },
+  "accent": "#f06a3f",
+  "accent2": "#0e9488",
+  "syntax": {
+    "keyword": "#c2410c",
+    "control": "#be123c",
+    "storage": "#0f766e",
+    "type": "#0b6b80",
+    "class": "#9a3412",
+    "function": "#1d4ed8",
+    "variable": "#a16207",
+    "parameter": "#b45309",
+    "property": "#0369a1",
+    "constant": "#9d174d",
+    "number": "#b93b0c",
+    "string": "#2f7d4a",
+    "escape": "#0b6b80",
+    "regex": "#7c2d12",
+    "operator": "#a3471b",
+    "punctuation": "#7a6657",
+    "tag": "#be123c",
+    "attribute": "#9d174d",
+    "decorator": "#7c3aed",
+    "namespace": "#4338ca",
+    "label": "#0b6b80",
+    "docTag": "#8a6a5a",
+    "macro": "#7c2d12"
+  },
+  "status": {
+    "error": "#dc2626",
+    "warning": "#b45309",
+    "info": "#0369a1",
+    "success": "#15803d",
+    "hint": "#80695c"
+  },
+  "diff": {
+    "added": "#15803d",
+    "removed": "#dc2626",
+    "modified": "#0369a1"
+  },
+  "ansi": {
+    "black": "#3d2e26",
+    "red": "#be123c",
+    "green": "#2f7d4a",
+    "yellow": "#b45309",
+    "blue": "#1d4ed8",
+    "magenta": "#9d174d",
+    "cyan": "#0f766e",
+    "white": "#a3907f",
+    "brightBlack": "#80695c",
+    "brightRed": "#9f1239",
+    "brightGreen": "#15803d",
+    "brightYellow": "#92400e",
+    "brightBlue": "#1e40af",
+    "brightMagenta": "#7c3aed",
+    "brightCyan": "#0b6b80",
+    "brightWhite": "#e3d3c8"
+  }
+}

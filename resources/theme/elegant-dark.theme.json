@@ -3,7 +3,9 @@
   "dark": true,
   "author": "yx208",
   "editorScheme": "/theme/elegant-dark.theme.xml",
+  "parentTheme": "Islands Dark",
   "colors": {
+    "transparent": "#00000000",
     "dark": "#1f2226",
     "editor": "#1a1c1f",
 
@@ -146,14 +148,27 @@
       "hoverInactiveBackground": "editor",
       "hoverBackground": "gray",
       "hoverSelectedInactiveBackground": "editor",
-      "fontSizeOffset": 0
+      "fontSizeOffset": 0,
+      "underlinedBorderColor": "primarySecondary",
+      "inactiveUnderlinedTabBorderColor": "gray3"
     },
     "ToolWindow": {
+      "background": "editor",
       "Header": {
-        "background": "dark",
-        "inactiveBackground": "dark"
+        "background": "editor",
+        "inactiveBackground": "editor"
       }
     },
+    "Island": {
+      "borderWidth": 6,
+      "borderWidth.compact": 5,
+      "borderColor": "editor",
+      "arc": 24,
+      "arc.compact": 20
+    },
+    "MainWindow.background": "dark",
+    "StatusBar.borderColor": "transparent",
+    "MainToolbar.borderColor": "transparent",
     "WelcomeScreen.separatorColor": "gray",
     "DefaultTabs": {
       "hoverBackground": "gray",

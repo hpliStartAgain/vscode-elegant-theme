@@ -1,0 +1,80 @@
+{
+  "id": "lavender-light",
+  "name": "Elegant Lavender",
+  "type": "light",
+  "description": "Violet, purple, indigo and pink with teal strings on pure white.",
+  "bg": {
+    "editor": "#ffffff",
+    "panel": "#f6f4fb",
+    "main": "#ebe7f5",
+    "surface": "#f9f8fd",
+    "hover": "#ece8f7",
+    "selection": "#dcd6f7",
+    "lineHighlight": "#f5f3fb",
+    "border": "#ddd8ee"
+  },
+  "fg": {
+    "text": "#2e2a44",
+    "muted": "#6f6a8a",
+    "comment": "#857fa0",
+    "lineNumber": "#b1acc8",
+    "onAccent": "#ffffff"
+  },
+  "accent": "#6d4aff",
+  "accent2": "#e04f9f",
+  "syntax": {
+    "keyword": "#6d28d9",
+    "control": "#be185d",
+    "storage": "#4338ca",
+    "type": "#0b6b80",
+    "class": "#1d4ed8",
+    "function": "#0969da",
+    "variable": "#a21caf",
+    "parameter": "#c026d3",
+    "property": "#1e40af",
+    "constant": "#9d174d",
+    "number": "#c2410c",
+    "string": "#0f766e",
+    "escape": "#0b6b80",
+    "regex": "#5b21b6",
+    "operator": "#7c3aed",
+    "punctuation": "#67617f",
+    "tag": "#be185d",
+    "attribute": "#9d174d",
+    "decorator": "#c026d3",
+    "namespace": "#3730a3",
+    "label": "#0b6b80",
+    "docTag": "#6f5fa8",
+    "macro": "#b45309"
+  },
+  "status": {
+    "error": "#dc2626",
+    "warning": "#b45309",
+    "info": "#0969da",
+    "success": "#15803d",
+    "hint": "#6f6a8a"
+  },
+  "diff": {
+    "added": "#15803d",
+    "removed": "#dc2626",
+    "modified": "#0969da"
+  },
+  "ansi": {
+    "black": "#2e2a44",
+    "red": "#dc2626",
+    "green": "#15803d",
+    "yellow": "#b45309",
+    "blue": "#1d4ed8",
+    "magenta": "#a21caf",
+    "cyan": "#0b6b80",
+    "white": "#9a95b4",
+    "brightBlack": "#6f6a8a",
+    "brightRed": "#b91c1c",
+    "brightGreen": "#166534",
+    "brightYellow": "#92400e",
+    "brightBlue": "#1e40af",
+    "brightMagenta": "#6d28d9",
+    "brightCyan": "#0f766e",
+    "brightWhite": "#d6d2e8"
+  }
+}

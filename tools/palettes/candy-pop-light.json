@@ -1,0 +1,80 @@
+{
+  "id": "candy-pop-light",
+  "name": "Elegant Candy Pop",
+  "type": "light",
+  "description": "One Light style saturated candy colors on pure white.",
+  "bg": {
+    "editor": "#ffffff",
+    "panel": "#f7f5fa",
+    "main": "#ece8f2",
+    "surface": "#faf9fc",
+    "hover": "#efeaf6",
+    "selection": "#dbe4ff",
+    "lineHighlight": "#f6f4fa",
+    "border": "#e0dbe9"
+  },
+  "fg": {
+    "text": "#343a4c",
+    "muted": "#6e7384",
+    "comment": "#8b8f9e",
+    "lineNumber": "#b0b3c0",
+    "onAccent": "#ffffff"
+  },
+  "accent": "#4078f2",
+  "accent2": "#e45649",
+  "syntax": {
+    "keyword": "#a626a4",
+    "control": "#d02f6b",
+    "storage": "#5c3ed6",
+    "type": "#8f6a00",
+    "class": "#b25a00",
+    "function": "#1a6fc9",
+    "variable": "#c8322b",
+    "parameter": "#c44a3f",
+    "property": "#0b7a9c",
+    "constant": "#7b3fb3",
+    "number": "#986801",
+    "string": "#2f7d32",
+    "escape": "#0c7560",
+    "regex": "#0b6b80",
+    "operator": "#2f6fa8",
+    "punctuation": "#5f6577",
+    "tag": "#be123c",
+    "attribute": "#986801",
+    "decorator": "#5c3ed6",
+    "namespace": "#3730a3",
+    "label": "#0c7560",
+    "docTag": "#6b6f9e",
+    "macro": "#b25a00"
+  },
+  "status": {
+    "error": "#e45649",
+    "warning": "#b25a00",
+    "info": "#1a6fc9",
+    "success": "#2f7d32",
+    "hint": "#6e7384"
+  },
+  "diff": {
+    "added": "#2f7d32",
+    "removed": "#e45649",
+    "modified": "#1a6fc9"
+  },
+  "ansi": {
+    "black": "#343a4c",
+    "red": "#e45649",
+    "green": "#2f7d32",
+    "yellow": "#986801",
+    "blue": "#1a6fc9",
+    "magenta": "#a626a4",
+    "cyan": "#0b7a9c",
+    "white": "#9a9eb0",
+    "brightBlack": "#6e7384",
+    "brightRed": "#c8322b",
+    "brightGreen": "#50a14f",
+    "brightYellow": "#c18401",
+    "brightBlue": "#4078f2",
+    "brightMagenta": "#7b3fb3",
+    "brightCyan": "#0184bc",
+    "brightWhite": "#d8dae2"
+  }
+}

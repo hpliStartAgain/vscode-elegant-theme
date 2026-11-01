@@ -1,0 +1,80 @@
+{
+  "id": "graphite-pop-dark",
+  "name": "Elegant Graphite Pop",
+  "type": "dark",
+  "description": "VS Code Dark Modern structure on graphite black, with saturated pop accents.",
+  "bg": {
+    "editor": "#0f1012",
+    "panel": "#131416",
+    "main": "#1b1c1f",
+    "surface": "#161719",
+    "hover": "#1d1e22",
+    "selection": "#243b5c",
+    "lineHighlight": "#141518",
+    "border": "#26282d"
+  },
+  "fg": {
+    "text": "#c7cfdd",
+    "muted": "#8a919c",
+    "comment": "#6a737d",
+    "lineNumber": "#41464d",
+    "onAccent": "#ffffff"
+  },
+  "accent": "#0078d4",
+  "accent2": "#ff8c00",
+  "syntax": {
+    "keyword": "#569cd6",
+    "control": "#c586c0",
+    "storage": "#4fc1ff",
+    "type": "#3fc1c9",
+    "class": "#4ec9b0",
+    "function": "#dcdcaa",
+    "variable": "#9cdcfe",
+    "parameter": "#b5e3ff",
+    "property": "#e0b0ff",
+    "constant": "#ff9e64",
+    "number": "#b5cea8",
+    "string": "#ce9178",
+    "escape": "#d7ba7d",
+    "regex": "#d16969",
+    "operator": "#e6c07b",
+    "punctuation": "#99a5b4",
+    "tag": "#569cd6",
+    "attribute": "#9cdcfe",
+    "decorator": "#ffd866",
+    "namespace": "#a9dc76",
+    "label": "#d7ba7d",
+    "docTag": "#7fa6d6",
+    "macro": "#ff8c00"
+  },
+  "status": {
+    "error": "#f14c4c",
+    "warning": "#cca700",
+    "info": "#3794ff",
+    "success": "#89d185",
+    "hint": "#8a919c"
+  },
+  "diff": {
+    "added": "#89d185",
+    "removed": "#f14c4c",
+    "modified": "#3794ff"
+  },
+  "ansi": {
+    "black": "#1b1c1f",
+    "red": "#f14c4c",
+    "green": "#89d185",
+    "yellow": "#cca700",
+    "blue": "#3b8eea",
+    "magenta": "#c586c0",
+    "cyan": "#29b8db",
+    "white": "#c7cfdd",
+    "brightBlack": "#6a737d",
+    "brightRed": "#f88070",
+    "brightGreen": "#a9dc76",
+    "brightYellow": "#ffd866",
+    "brightBlue": "#6cb6ff",
+    "brightMagenta": "#d7a5f5",
+    "brightCyan": "#4fd6f0",
+    "brightWhite": "#eef1f5"
+  }
+}

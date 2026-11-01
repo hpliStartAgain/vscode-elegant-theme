@@ -1,0 +1,81 @@
+{
+  "id": "islands-light",
+  "name": "Elegant Islands Light",
+  "type": "light",
+  "jetbrains": false,
+  "description": "Elegant Islands Light, hand-maintained for JetBrains.",
+  "bg": {
+    "editor": "#fefefe",
+    "panel": "#f7f8fa",
+    "main": "#f7f8fa",
+    "surface": "#ffffff",
+    "hover": "#ebecf0",
+    "selection": "#a6d2ff",
+    "lineHighlight": "#f5f8fe",
+    "border": "#e4e6eb"
+  },
+  "fg": {
+    "text": "#080808",
+    "muted": "#6c707e",
+    "comment": "#8c8c8c",
+    "lineNumber": "#aeb3c2",
+    "onAccent": "#ffffff"
+  },
+  "accent": "#006dcc",
+  "accent2": "#8552c6",
+  "syntax": {
+    "keyword": "#533ab7",
+    "control": "#533ab7",
+    "storage": "#533ab7",
+    "type": "#007e8a",
+    "class": "#008077",
+    "function": "#1168c8",
+    "variable": "#080808",
+    "parameter": "#080808",
+    "property": "#871094",
+    "constant": "#871094",
+    "number": "#1750eb",
+    "string": "#067d17",
+    "escape": "#0037a6",
+    "regex": "#264eff",
+    "operator": "#080808",
+    "punctuation": "#080808",
+    "tag": "#000080",
+    "attribute": "#080808",
+    "decorator": "#9e880d",
+    "namespace": "#805900",
+    "label": "#9e880d",
+    "docTag": "#9e880d",
+    "macro": "#660571"
+  },
+  "status": {
+    "error": "#f50000",
+    "warning": "#b8791a",
+    "info": "#006dcc",
+    "success": "#067d17",
+    "hint": "#808080"
+  },
+  "diff": {
+    "added": "#067d17",
+    "removed": "#b23247",
+    "modified": "#0033b3"
+  },
+  "ansi": {
+    "black": "#080808",
+    "red": "#c72233",
+    "green": "#067d17",
+    "yellow": "#9e880d",
+    "blue": "#0033b3",
+    "magenta": "#871094",
+    "cyan": "#007e8a",
+    "white": "#a8adbd",
+    "brightBlack": "#8c8c8c",
+    "brightRed": "#f50000",
+    "brightGreen": "#0a8f24",
+    "brightYellow": "#c9a100",
+    "brightBlue": "#174ad4",
+    "brightMagenta": "#a315b0",
+    "brightCyan": "#16a3b8",
+    "brightWhite": "#080808"
+  }
+}

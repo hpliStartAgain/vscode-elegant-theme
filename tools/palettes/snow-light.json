@@ -1,0 +1,80 @@
+{
+  "id": "snow-light",
+  "name": "Elegant Snow",
+  "type": "light",
+  "description": "Pure white base with cool blue, cyan and indigo tokens; VS Code Light Modern structure.",
+  "bg": {
+    "editor": "#ffffff",
+    "panel": "#f4f6f9",
+    "main": "#e7ebf1",
+    "surface": "#f8fafc",
+    "hover": "#e9eef5",
+    "selection": "#cfe3fb",
+    "lineHighlight": "#f3f6fa",
+    "border": "#dbe2ea"
+  },
+  "fg": {
+    "text": "#273345",
+    "muted": "#66748a",
+    "comment": "#7b889a",
+    "lineNumber": "#a3aebd",
+    "onAccent": "#ffffff"
+  },
+  "accent": "#0969da",
+  "accent2": "#8250df",
+  "syntax": {
+    "keyword": "#8250df",
+    "control": "#b4249b",
+    "storage": "#0550ae",
+    "type": "#0f766e",
+    "class": "#1d4ed8",
+    "function": "#0969da",
+    "variable": "#9a3f00",
+    "parameter": "#b35c00",
+    "property": "#0a7ea4",
+    "constant": "#0550ae",
+    "number": "#c2410c",
+    "string": "#1a7f5a",
+    "escape": "#0e7490",
+    "regex": "#116329",
+    "operator": "#2a6f97",
+    "punctuation": "#5b6b80",
+    "tag": "#116329",
+    "attribute": "#0550ae",
+    "decorator": "#7c3aed",
+    "namespace": "#3b4fb8",
+    "label": "#b4249b",
+    "docTag": "#4b6fa8",
+    "macro": "#a1421f"
+  },
+  "status": {
+    "error": "#d1242f",
+    "warning": "#b45309",
+    "info": "#0969da",
+    "success": "#1a7f37",
+    "hint": "#66748a"
+  },
+  "diff": {
+    "added": "#1a7f37",
+    "removed": "#d1242f",
+    "modified": "#0969da"
+  },
+  "ansi": {
+    "black": "#273345",
+    "red": "#d1242f",
+    "green": "#1a7f37",
+    "yellow": "#9a6700",
+    "blue": "#0969da",
+    "magenta": "#8250df",
+    "cyan": "#0e7490",
+    "white": "#8c96a6",
+    "brightBlack": "#57606a",
+    "brightRed": "#a40e26",
+    "brightGreen": "#116329",
+    "brightYellow": "#7d4e00",
+    "brightBlue": "#0550ae",
+    "brightMagenta": "#6639ba",
+    "brightCyan": "#0a5f70",
+    "brightWhite": "#b7c0cc"
+  }
+}
